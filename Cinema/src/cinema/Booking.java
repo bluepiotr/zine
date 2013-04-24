@@ -9,7 +9,7 @@ import java.util.Scanner;
  * For eg. display bookings of the user, generate booking ID, cancel bookings, etc
  * @author Raul Gomez,  Student ID 12837452, MSc Informatics
  */
-public class Booking implements Serializable {
+public class Booking implements Serializable {  
 	private static final long serialVersionUID = -7266881288297174414L;
 	Showing show;
 	int number;
