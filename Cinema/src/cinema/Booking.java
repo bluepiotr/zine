@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 public class Booking implements Serializable {  
 	private static final long serialVersionUID = -7266881288297174414L;
-	Showing show;
+	Showing show; 
 	int number; 
 	int bookingId;
 	private Person p;
